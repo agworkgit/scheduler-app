@@ -38,7 +38,7 @@ The following image shows the web application's appearance and functionality:
 
 > **Note**: This layout is designed to be responsive.
 
-The following link will take you to the deployed webpage <https://agworkgit.github.io/planner-app-dayjs/>
+The following link will take you to the deployed webpage <https://agworkgit.github.io/scheduler-app/>
 
 ## Installation
 
